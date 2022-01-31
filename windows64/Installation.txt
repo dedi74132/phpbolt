@@ -1,0 +1,5 @@
+===
+ 
+Please check installed php version is NTS(Non Thread Safe) or not
+
+===
