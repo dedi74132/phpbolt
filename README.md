@@ -19,6 +19,10 @@ How To Use?
 - restart your web server (optional)
 - your phpbolt loader now is running on your web server
 
+Source
+======
+https://phpbolt.com/wp-content/uploads
+
 Version Release
 -------------------
 V1.0.1
